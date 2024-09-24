@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.content {
+    margin-bottom: 20px;
+}
+
+.calculate_button {
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.age_text {
+    margin-top: 20px;
+    font-size: 1.5em;
+}
